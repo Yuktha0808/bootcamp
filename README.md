@@ -3,7 +3,7 @@
 This is a basic web server running on my Google Cloud VM using Docker. It shows my name and photo on a simple HTML page.
 
 ## Website Link
-http://35.239.49.72:8081
+[http://35.239.49.72:8081](https://yuktha0808.github.io/bootcamp/)
 
 ## How I Set It Up
 
