@@ -1,4 +1,4 @@
-# Web Server Setup – Proof
+# Web Server Setup 
 
 This is a basic web server running on my Google Cloud VM using Docker. It shows my name and photo on a simple HTML page.
 
